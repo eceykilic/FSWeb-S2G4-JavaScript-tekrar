@@ -54,6 +54,8 @@ function CemberinCevresi(/* kodlar buraya */) {
   /* kodlar buraya */
 }
 
+console.log("Ece");
+
 /* (Oto test yok) Yukarıdaki CemberinCevresi fonksiyonunu yarıçap = 5 vererek aşağıda çalıştırıp, sonucu konsolda gözlemleyin (console.log)  */
 
 /* 	GÖREV 2:  
